@@ -1,0 +1,69 @@
+[13-Jan-2021 15:33:07 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/canteenkwb/public_html/crop.php on line 19
+[13-Jan-2021 15:33:07 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[13-Jan-2021 15:33:07 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 11:14:03 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 11:14:03 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/canteenkwb/public_html/crop.php on line 67
+[18-Jan-2021 11:14:03 UTC] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/canteenkwb/public_html/crop.php on line 69
+[18-Jan-2021 11:14:03 UTC] PHP Warning:  imagefill() expects parameter 1 to be resource, boolean given in /home/canteenkwb/public_html/crop.php on line 69
+[18-Jan-2021 11:14:03 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 71
+[18-Jan-2021 11:14:03 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 73
+[18-Jan-2021 11:14:03 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 11:14:03 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 11:14:03 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/canteenkwb/public_html/crop.php on line 121
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/9429b8bce5be2c…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/4c74b086280547…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/16b2153ea30dae…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/a5ba0bd915665c…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/2391b6c3d79ea6…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/114273838f265d…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/1b0e503c3e2fc4…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/f8ad092dc0532c…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/e660746a7bd1cf…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/ae9f26aeef3c94…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/08e3f5f41d2cb0…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/e341f0a54b7565…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/9b336cca2c2487…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/b30e0ffb509187…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/4855ff95245814…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/61bd14d655056d…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/dba8455c02d5c4…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  getimagesize(uploads/images/45ce913b487ad1…): failed to open stream: No such file or directory in /home/canteenkwb/public_html/crop.php on line 19
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[18-Jan-2021 14:42:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
+[28-Jan-2021 10:27:17 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/canteenkwb/public_html/crop.php on line 19
+[28-Jan-2021 10:27:17 UTC] PHP Warning:  Division by zero in /home/canteenkwb/public_html/crop.php on line 101
+[28-Jan-2021 10:27:17 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/canteenkwb/public_html/crop.php on line 109
