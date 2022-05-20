@@ -1,0 +1,13 @@
+Import into questions
+19-05-2022 11:33:59 AM
+
+949 out of 951 records processed successfully.
+949 records added.
+0 records updated.
+2 records processed with errors:
+
+Column 'question_ans_2' cannot be null
+"","అధికంగా శ్రమించే శ్రామిక జీవుల చేతులు, అరి కాళ్ళ చర్మం మందంగాను, ఉండటానికి కారణం","13","మందమైన ఎఫిథిలిక్ త్వచం","","మందమైన ఉపరితల త్వచాలు","పైవన్నియూ","1","1"
+
+Column 'question_correct_ans' cannot be null
+"","భూమి యొక్క ద్రవ్యరాశి, పరిమాణం, సాంద్రతతో దరిదాపుగా సమానంగా ఉండగలిగే ఈ క్రింది గ్రహాన్ని ఎన్నుకొనుము","13","అంగారకుడు","శుక్రుడు","బుధుడు","యురేనస్","","1"

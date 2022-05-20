@@ -1,0 +1,10 @@
+Import into questions
+17-05-2022 9:24:31 AM
+
+735 out of 736 records processed successfully.
+735 records added.
+0 records updated.
+1 records processed with errors:
+
+Column 'question_ans_3' cannot be null
+"","2011 జనాభా లెక్కల ప్రకారం పట్టణ గ్రామీణ జనాభా నిష్పత్తి ","1","35:65 ","32:68 ","","","2","1"

@@ -1,0 +1,291 @@
+<!doctype html>
+<html  {$html_attrs}>
+	<head>
+				<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{$pagetitle}</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<base href="{$projectPath}">
+		<link REL="stylesheet" href="styles/default.css?{$wizardBuildKey}" type="text/css">
+	{BEGIN rtlCSS}
+	<link REL="stylesheet" href="styles/defaultRTL.css?{$wizardBuildKey}" type="text/css">
+	{END rtlCSS}
+	{BEGIN styleCSSFiles}
+	<link REL="stylesheet" href="{$stylepath}" type="text/css">
+	{END styleCSSFiles}
+	</head>
+
+	<body class="{$stylename} function-search" {$bodyattrs}>
+	{BEGIN body}
+		{$header}
+		<style>
+			{$containerCss}
+		</style>
+		{$locking}
+		<div class="r-small-page" 
+			data-body-align="center"
+			data-body-width="standard"
+		>
+							{BEGIN top_block}
+<div class="r-form" data-location="top" id="form_top_{$pageid}" data-makeup="small" {$form_top} data-pageid="{$pageid}"
+		data-v-width="6"
+	data-v-margin="1"
+	
+>		
+	 
+		<div class="row">
+			 
+				<div 
+	data-cellId="top_c1" data-pageid="{$pageid}"	{$cell_top_c1}
+	class=" r-ori-vert			col-md-12
+	">
+	 
+		<h2 data-itemtype="search_header" data-itemid="search_header" {$item_search_header} data-pageid="{$pageid}" >{$pagetitlelabel sub_category search}</h2>
+	</div>					</div>
+	</div>		
+{END top_block}
+									{BEGIN above-grid_block}
+<div class="r-form" data-location="above-grid" id="form_above-grid_{$pageid}" data-makeup="small" {$form_above-grid} data-pageid="{$pageid}"
+		data-v-width="6"
+	data-v-margin="1"
+	
+>		
+	</div>		
+{END above-grid_block}
+									{BEGIN grid_block}
+
+
+
+
+ 
+	 
+												<table 
+	data-body-align="center"
+	data-location="grid" id="form_grid_{$pageid}" data-makeup="small" {$form_grid} data-pageid="{$pageid}" 
+	class="r-edit-form" cellpadding="0" cellspacing="0" 
+	{$grid_hiddenattr} 
+		data-form-width="1"
+		
+		data-v-width="6"
+	>
+	<tbody>
+										<tr>
+										
+
+{BEGIN cellblock_grid_c3}
+<td
+	{$cell_grid_c3}
+	class=" r-ori-vert"
+	
+				data-fullwidth
+		
+			data-cellId="grid_c3" data-pageid="{$pageid}"
+		data-v-cell="6"
+		
+>
+	<div edit-form-cell class="clearfix">
+				
+{BEGIN id_fieldblock}
+
+<div class="r-integrated-field form-group clearfix {$fielddispclass_id}  r-horizontal-field form-horizontal" 
+	
+		data-fieldname="id" 
+	
+	data-signal-error-for="id{$id}" 
+	data-itemtype="integrated_search_field" data-itemid="integrated_search_field" {$item_integrated_search_field} data-pageid="{$pageid}" data-field="id" >
+
+
+	<label class="r-search-label control-label" for="{$labelfor_id}">
+		{$label sub_category id }	</label>
+	<div class="r-search-option">
+		{$searchtype_id}
+	</div>
+	<div class="r-search-field">
+		{$id_editcontrol}	</div>
+	<div class="r-search-field">
+		{$id_editcontrol1}
+	</div>
+	
+</div>
+
+{END id_fieldblock}
+											
+{BEGIN title_fieldblock}
+
+<div class="r-integrated-field form-group clearfix {$fielddispclass_title}  r-horizontal-field form-horizontal" 
+	
+		data-fieldname="title" 
+	
+	data-signal-error-for="title{$id}" 
+	data-itemtype="integrated_search_field" data-itemid="integrated_search_field1" {$item_integrated_search_field1} data-pageid="{$pageid}" data-field="title" >
+
+
+	<label class="r-search-label control-label" for="{$labelfor_title}">
+		{$label sub_category title }	</label>
+	<div class="r-search-option">
+		{$searchtype_title}
+	</div>
+	<div class="r-search-field">
+		{$title_editcontrol}	</div>
+	<div class="r-search-field">
+		{$title_editcontrol1}
+	</div>
+	
+</div>
+
+{END title_fieldblock}
+											
+{BEGIN status_fieldblock}
+
+<div class="r-integrated-field form-group clearfix {$fielddispclass_status}  r-horizontal-field form-horizontal" 
+	
+		data-fieldname="status" 
+	
+	data-signal-error-for="status{$id}" 
+	data-itemtype="integrated_search_field" data-itemid="integrated_search_field2" {$item_integrated_search_field2} data-pageid="{$pageid}" data-field="status" >
+
+
+	<label class="r-search-label control-label" for="{$labelfor_status}">
+		{$label sub_category status }	</label>
+	<div class="r-search-option">
+		{$searchtype_status}
+	</div>
+	<div class="r-search-field">
+		{$status_editcontrol}	</div>
+	<div class="r-search-field">
+		{$status_editcontrol1}
+	</div>
+	
+</div>
+
+{END status_fieldblock}
+											
+{BEGIN create_date_fieldblock}
+
+<div class="r-integrated-field form-group clearfix {$fielddispclass_create_date}  r-horizontal-field form-horizontal" 
+	
+		data-fieldname="create_date" 
+	
+	data-signal-error-for="create_date{$id}" 
+	data-itemtype="integrated_search_field" data-itemid="integrated_search_field3" {$item_integrated_search_field3} data-pageid="{$pageid}" data-field="create_date" >
+
+
+	<label class="r-search-label control-label" for="{$labelfor_create_date}">
+		{$label sub_category create_date }	</label>
+	<div class="r-search-option">
+		{$searchtype_create_date}
+	</div>
+	<div class="r-search-field">
+		{$create_date_editcontrol}	</div>
+	<div class="r-search-field">
+		{$create_date_editcontrol1}
+	</div>
+	
+</div>
+
+{END create_date_fieldblock}
+											
+{BEGIN last_update_fieldblock}
+
+<div class="r-integrated-field form-group clearfix {$fielddispclass_last_update}  r-horizontal-field form-horizontal" 
+	
+		data-fieldname="last_update" 
+	
+	data-signal-error-for="last_update{$id}" 
+	data-itemtype="integrated_search_field" data-itemid="integrated_search_field4" {$item_integrated_search_field4} data-pageid="{$pageid}" data-field="last_update" >
+
+
+	<label class="r-search-label control-label" for="{$labelfor_last_update}">
+		{$label sub_category last_update }	</label>
+	<div class="r-search-option">
+		{$searchtype_last_update}
+	</div>
+	<div class="r-search-field">
+		{$last_update_editcontrol}	</div>
+	<div class="r-search-field">
+		{$last_update_editcontrol1}
+	</div>
+	
+</div>
+
+{END last_update_fieldblock}
+											
+{BEGIN parent_category_fieldblock}
+
+<div class="r-integrated-field form-group clearfix {$fielddispclass_parent_category}  r-horizontal-field form-horizontal" 
+	
+		data-fieldname="parent_category" 
+	
+	data-signal-error-for="parent_category{$id}" 
+	data-itemtype="integrated_search_field" data-itemid="integrated_search_field5" {$item_integrated_search_field5} data-pageid="{$pageid}" data-field="parent_category" >
+
+
+	<label class="r-search-label control-label" for="{$labelfor_parent_category}">
+		{$label sub_category parent_category }	</label>
+	<div class="r-search-option">
+		{$searchtype_parent_category}
+	</div>
+	<div class="r-search-field">
+		{$parent_category_editcontrol}	</div>
+	<div class="r-search-field">
+		{$parent_category_editcontrol1}
+	</div>
+	
+</div>
+
+{END parent_category_fieldblock}
+	
+								</td>
+			{END cellblock_grid_c3}
+								</tr>
+			</tbody></table>
+{END grid_block}
+									{BEGIN below-grid_block}
+<div class="r-form" data-location="below-grid" id="form_below-grid_{$pageid}" data-makeup="small" {$form_below-grid} data-pageid="{$pageid}"
+		data-v-width="6"
+	data-v-margin="1"
+	
+>		
+	 
+		<div class="row">
+			 
+				<div 
+	data-cellId="below-grid_c1" data-pageid="{$pageid}"	{$cell_below-grid_c1}
+	class="			col-md-12
+	">
+	 
+		<span data-itemtype="search_search" data-itemid="search_search" {$item_search_search} data-pageid="{$pageid}" data-small data-button-item>
+	<a type="button" title="" class="btn btn-primary   
+	" {$searchbutton_attrs} >
+							Search			</a>
+</span>
+	 
+		<span data-itemtype="search_reset" data-itemid="search_reset" {$item_search_reset} data-pageid="{$pageid}" data-small data-button-item>
+	<a type="button" title="" class="btn btn-default   
+	" {$resetbutton_attrs} >
+							Reset			</a>
+</span>
+	 
+		{BEGIN back_button}
+<span data-itemtype="search_back_list" data-itemid="search_back_list" {$item_search_back_list} data-pageid="{$pageid}" data-small data-button-item>
+	<a type="button" title="" class="btn btn-default   
+	" {$backbutton_attrs} >
+							Back to list			</a>
+</span>
+{END back_button}
+	 
+		{BEGIN cancel_button}
+<span data-itemtype="search_cancel" data-itemid="search_cancel" {$item_search_cancel} data-pageid="{$pageid}" data-small data-button-item>
+	<a type="button" title="" class="btn btn-default   
+	" id="cancelButton{$id}" >
+							Cancel			</a>
+</span>
+{END cancel_button}
+	</div>					</div>
+	</div>		
+{END below-grid_block}
+			</div>
+		{$footer}
+	{END body}
+	</body>
+</html>

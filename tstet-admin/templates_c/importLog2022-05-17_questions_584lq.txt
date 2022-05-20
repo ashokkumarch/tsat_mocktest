@@ -1,0 +1,34 @@
+Import into questions
+17-05-2022 9:16:03 AM
+
+792 out of 801 records processed successfully.
+792 records added.
+0 records updated.
+9 records processed with errors:
+
+Column 'question_ans_1' cannot be null
+"","A:B = 2:3, B:C=4:5 అయితే A:B:C=","1","","2011-4-3 0:0:0","2015-12-8 0:0:0","2015-8-12 0:0:0","3","1"
+
+Column 'question_ans_1' cannot be null
+"","కింది నిష్పత్తుల్లో అన్నింటికంటే తక్కువ విలువ ఉన్నది ఏది?","1","","","","","4","1"
+
+Column 'question_ans_1' cannot be null
+"","కింది వాటిలో పెద్ద నిష్పత్తి ఏది?","1","","","","","4","1"
+
+Column 'question_ans_1' cannot be null
+"","గడియారంలో సమయం 4:20 గంటలు అద్దంలో చూసిన సమయం ఎంత?","1","","","","ఏదీకాదు ","2","1"
+
+Column 'question_ans_1' cannot be null
+"","11 గంటలు & 12 గంటల మధ్య పెద్దముల్లు,చిన్నముల్లు ఏకీభవించు సమయం?","1","","","","ఏకీభవించవు ","4","1"
+
+Column 'question_ans_1' cannot be null
+"","గడియారంలో సమయం 4.30 అయిన అద్దంలో ప్రతిబింబం సమయం ","1","","","","","2","1"
+
+Column 'question_ans_1' cannot be null
+"","ఒక గడియారంలో అద్దంలో చూపిన సమయం 3:15 అయిన వాస్తవ సమయం ","1","","","","","3","1"
+
+Column 'question_ans_4' cannot be null
+"","x = sec θ + tan θ, y = sec θ - tan θ అయిన θ ను తొలగించండి ","1","x² - y² =1","x-y =1","x+y = 1","","4","1"
+
+Column 'question_ans_2' cannot be null
+"","01.01.2018 న ఒక గడియారమును 8 AM వద్ద సరిజేసి పెట్టినారు. ఆ గడియారం 24 గంటల్లో 15 నిమిషాల సమయాన్ని అదనంగా చూపిస్తుంది. 04.01.2018న నిజమైన టైమ్ 10 AM అయినపుడు, ఆ గడియారం పై చూపే టైమ్ (దాదాపు గా )","1","10.45 AM ","","10.46 AM","11.05 AM","3","1"

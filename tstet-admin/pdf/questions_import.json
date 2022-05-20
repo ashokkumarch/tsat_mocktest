@@ -1,0 +1,151 @@
+
+pdfDocument = {
+{BEGIN backgroundImage}
+	background: {
+		image: {$backgroundImage},
+		{BEGIN bgWidth}
+		imgWidth: {$bgWidth},
+		imgHeight: {$bgHeight},
+		{END bgWidth}
+	},
+{END backgroundImage}
+	styles: {
+				bodycell: {
+			fontSize:12,
+		},
+		headcell: {
+			fontSize:12,
+			bold: true
+		},
+
+	
+	},
+	defaultStyle: {
+		fontSize: 14,
+	},
+	"content": [
+								
+{
+	table: {
+	
+				
+		location: 'top',
+		
+		
+		widths: [
+								"*", 
+					 ],	
+		
+	
+		body: [
+				
+					[
+												{
+	cellId: 'c1',
+	col:0,
+	row:0,
+			style: 'cell',
+		
+		
+	//	static colspan/rowspan
+		
+			
+	
+	
+			"text": [
+		
+				
+			{"text":"{$jspagetitlelabel questions import}","hidden":"{$item_hide_import_header}","fontSize":30},
+				
+		  ],
+  "border": [ false, false, false, false ],
+          },
+
+											],
+					]
+	}
+}
+,
+		
+				
+								
+{
+	table: {
+	
+				
+		location: 'grid',
+		
+		
+		widths: [
+								"%", 
+					 ],	
+		
+			heights: [
+								
+			"%",
+			 
+				],
+	
+		body: [
+				
+					[
+												{
+	cellId: 'c1',
+	col:0,
+	row:0,
+			style: 'cell',
+		
+		
+	//	static colspan/rowspan
+		
+			
+	
+	
+			"text": [
+		
+				
+			{"hidden":"{$item_hide_import_field}","text":{$id_pdfvalue}},
+				
+				
+			{"hidden":"{$item_hide_import_field1}","text":{$question_name_pdfvalue}},
+				
+				
+			{"hidden":"{$item_hide_import_field2}","text":{$category_pdfvalue}},
+				
+				
+			{"hidden":"{$item_hide_import_field3}","text":{$question_ans_1_pdfvalue}},
+				
+				
+			{"hidden":"{$item_hide_import_field4}","text":{$question_ans_2_pdfvalue}},
+				
+				
+			{"hidden":"{$item_hide_import_field5}","text":{$question_ans_3_pdfvalue}},
+				
+				
+			{"hidden":"{$item_hide_import_field6}","text":{$question_ans_4_pdfvalue}},
+				
+				
+			{"hidden":"{$item_hide_import_field7}","text":{$question_correct_ans_pdfvalue}},
+				
+				
+			{"hidden":"{$item_hide_import_field8}","text":{$status_pdfvalue}},
+				
+				
+			{"hidden":"{$item_hide_import_field9}","text":{$now_pdfvalue}},
+				
+				
+			{"hidden":"{$item_hide_import_field10}","text":{$updated_pdfvalue}},
+				
+		  ],
+  "border": [ false, false, false, false ],
+          },
+
+											],
+					]
+	}
+}
+,
+		
+					]
+}
+  

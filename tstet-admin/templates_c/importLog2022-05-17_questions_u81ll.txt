@@ -1,0 +1,13 @@
+Import into questions
+17-05-2022 9:19:36 AM
+
+1001 out of 1003 records processed successfully.
+1001 records added.
+0 records updated.
+2 records processed with errors:
+
+Column 'question_correct_ans' cannot be null
+"","","1","","","","","","1"
+
+Column 'question_ans_2' cannot be null
+"","ది స్ట్రగుల్ అండ్ ది బెట్రీయాల్ అనే గ్రంథాన్ని ఎవరు రచించారు?","1","మర్రి చెన్నారెడ్డి ","","బూర్గుల రామకృష్ణారావు ","నీలం సంజీవరెడ్డి","2","1"

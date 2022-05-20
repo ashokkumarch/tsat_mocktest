@@ -1,0 +1,11 @@
+Import into questions
+17-05-2022 9:17:48 AM
+
+387 out of 388 records processed successfully.
+387 records added.
+0 records updated.
+1 records processed with errors:
+
+Column 'question_ans_1' cannot be null
+"","15 సంవత్సరాల తర్వాత వెంకటేష్ వయస్సు ఆయన ప్రస్తుత వయస్సుకి 2/3 రెట్లు. 
+అయితే వెంకటేష్ ప్రస్తుత వయస్సు ఎంత?","1","","","","","4","1"

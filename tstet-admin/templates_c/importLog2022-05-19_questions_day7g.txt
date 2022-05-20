@@ -1,0 +1,49 @@
+Import into questions
+19-05-2022 11:33:20 AM
+
+130 out of 144 records processed successfully.
+130 records added.
+0 records updated.
+14 records processed with errors:
+
+Column 'question_correct_ans' cannot be null
+"","","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","UNIT-2 Science and Technology","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","UNIT-3 Nation and Diversity","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","UNIT-4 Wit and Humour","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","UNIT-5 Travel and Tourism","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","UNIT-6 Adventure","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","UNIT-7 Games and Sports","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","","12","","","","","","1"
+
+Column 'question_correct_ans' cannot be null
+"","UNIT-8 Environment","12","","","","","","1"

@@ -1,0 +1,10 @@
+Import into questions
+17-05-2022 9:18:12 AM
+
+666 out of 667 records processed successfully.
+666 records added.
+0 records updated.
+1 records processed with errors:
+
+Column 'question_correct_ans' cannot be null
+"","భారత ప్రభుత్వ చట్టం 1935 కు కాంగ్రెస్ ప్రతిస్పందన ఏమిటి? ","1","అది పూర్తిగా నిరాశపరిచింది ","కొత్త సీసాలో పాత సారా ","కాంగ్రెస్ నుండి ఎలాంటి ప్రతిస్పందన లేదు ","ఏదీ కాదు ","","1"

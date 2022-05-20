@@ -1,0 +1,10 @@
+Import into questions
+17-05-2022 9:17:20 AM
+
+1480 out of 1481 records processed successfully.
+1480 records added.
+0 records updated.
+1 records processed with errors:
+
+Column 'question_correct_ans' cannot be null
+"","శాంతి సముద్రం కింది వానిలో ఒక దానిలో ఉన్నది","1","పసిఫిక్ మహాసముద్రం ","అట్లాంటిక్ మహాసముద్రం ","హిందూ మహాసముద్రం ","","","1"
