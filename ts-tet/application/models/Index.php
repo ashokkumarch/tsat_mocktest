@@ -31,7 +31,7 @@ public function get_questions($id)
 	$this->db->where('category', $id);
 	$this->db->where('status', '1');
 	$this->db->order_by('id', 'RANDOM');
-    $this->db->limit('25');
+    $this->db->limit('30');
 	$query = $this->db->get();
 	//echo $this->db->last_query();
 	return $query->result_array();
