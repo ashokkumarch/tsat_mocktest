@@ -33,7 +33,7 @@ class Exam extends FrontendController {
 	  }
 	  
 	  public function submit() {
-		$add_score = 2; $sub_score = 0.5;
+		$add_score = 1; $sub_score = 0;
 		$score = 0; $total_questions = 0; $total = 0;
 		$questions = $this->session->userdata('questions_list');
 		foreach($questions as $key => $value){
